@@ -1,0 +1,17 @@
+{
+    "name": "wild/cowsay",
+    "autoload": {
+        "psr-4": {
+            "Wild\\Cowsay\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Radu BOBES",
+            "email": "radu-bobes_student2023@wilder.school"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
